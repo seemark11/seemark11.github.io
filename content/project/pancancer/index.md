@@ -4,7 +4,7 @@ summary: Identification of subgroups in pan-cancer samples using machine learnin
 tags:
   - Machine Learning
   - Multi-omics Data Integration
-  - NSCPancancerLC
+  - Pancancer
 date: '2022-09-27'
 
 # Optional external URL for project (replaces project detail page).
