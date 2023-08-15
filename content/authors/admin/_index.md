@@ -54,7 +54,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "seemark11@gmail.com"
+    link: "/#contact"
   - icon: google-scholar 
     icon_pack: ai
     link: "https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=fC0VWIUAAAAJ"
