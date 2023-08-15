@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Seema Khadirnaikar
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Seema
+last_name: Khadirnaikar
 
 # Status emoji
 status:
@@ -14,34 +14,38 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Research Scholar
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: IIT Dharwad
+    url: https://www.iitdh.ac.in/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include application of machine learning techniques to precision medicine.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
+  - Deep Learning
+  - Data Augmentation
+  - Data Integration
+  - Bioinformatics
+  - Precision Medicine
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Electrical, Electronics, and Communication Engineering
+      institution: Indian Institute of Technology Dharwad
+      # institution_url: https://www.iitdh.ac.in/
+      year: 2023
+    - course: MTech (Res) in VLSI Design
+      institution: National Institute of Technology Karnataka Surathkal
+      year: 2017
+    - course: B E in Electronics and Communication Engineering
+      institution: Basaveshwar Engineering College Bagalkot
+      year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -50,28 +54,22 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: 'seemark11@gmail.com'
+  - icon: google-scholar 
+    icon_pack: ai
+    link: "https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=fC0VWIUAAAAJ"
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: "https://github.com/seemark11"
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: "https://www.linkedin.com/in/seemark11"
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/seema_resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -80,5 +78,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a research scholar in the Department of Electrical, Electronics, and Communication Engineering at IIT Dharwad. My research work broadly focuses on applying machine learning algorithms for precise cancer subtype identification and personalized treatment strategies. 
 {style="text-align: justify;"}
