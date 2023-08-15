@@ -1,11 +1,11 @@
 ---
-title: NSCLC-subgroup-identification
-summary: Identify subgroups in non-small cell lung cancer (NSCLC) using machine learning (ML) techniques on multi-omics data.
+title: Subgroup Identification in Non-small Cell Lung Cancer (NSCLC)
+summary: Identify subgroups in non-small cell lung cancer (NSCLC) using machine learning (ML) techniques applied on multi-omics data.
 tags:
   - Machine Learning
   - Multi-omics Data Integration
   - NSCLC
-date: '2016-04-27T00:00:00Z'
+date: '2017-11-17'
 
 # Optional external URL for project (replaces project detail page).
 # external_link: ''
@@ -20,7 +20,7 @@ links:
     name: Github
     url: https://github.com/seemark11/NSCLC-subgroup-identification
 # url_code: ''
-# url_pdf: ''
+url_pdf: 'https://www.nature.com/articles/s41598-023-31426-w'
 # url_slides: ''
 # url_video: ''
 

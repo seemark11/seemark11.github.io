@@ -1,11 +1,11 @@
 ---
-title: Pancancer subgroup identification
-summary: Identification of subgroups in pan-cancer samples using machine learning (ML) techniques on multi-omics data.
+title: Subgroup Identification in Pancancer
+summary: Identification of subgroups in pan-cancer samples using machine learning (ML) techniques applied on multi-omics data.
 tags:
   - Machine Learning
   - Multi-omics Data Integration
   - NSCPancancerLC
-date: '2016-04-27T00:00:00Z'
+date: '2022-09-27'
 
 # Optional external URL for project (replaces project detail page).
 # external_link: ''
@@ -20,7 +20,7 @@ links:
     name: Github
     url: https://github.com/seemark11/Pancancer-subgroup-identification
 # url_code: ''
-# url_pdf: ''
+url_pdf: 'https://www.biorxiv.org/content/10.1101/2022.09.15.507989v2.abstract'
 # url_slides: ''
 # url_video: ''
 

@@ -29,7 +29,7 @@ interests:
   - Machine Learning
   - Deep Learning
   - Data Augmentation
-  - Data Integration
+  - Multimodal Data Integration
   - Bioinformatics
   - Precision Medicine
 
