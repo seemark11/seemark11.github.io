@@ -78,5 +78,5 @@ email: ''
 highlight_name: true
 ---
 
-I am a research scholar in the Department of Electrical, Electronics, and Communication Engineering at IIT Dharwad. My research broadly focuses on applying supervised and unsupervised machine learning algorithms for precise cancer subtype identification which aids in development of personalized treatment strategies. I have also explored data augmentation using GANs to synthetically generate genomic data.
+I am a research scholar in the Department of Electrical, Electronics, and Communication Engineering at IIT Dharwad. My research broadly focuses on applying supervised and unsupervised machine learning algorithms for precise cancer subtype identification which aids in development of personalized treatment strategies. I have also explored data augmentation using GANs to synthetically generate genomic data. I am actively seeking positions where I can utilize machine learning, and data science approaches to address real-world challenges.
 {style="text-align: justify;"}
