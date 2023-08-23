@@ -60,7 +60,7 @@ sections:
           location: "Dharwad, Karnataka, India"
           date_start: '2018-01-01'
           date_end: ''
-          description: 'Developed a machine learning-based pipeline aimed at identification of novel molecular subgroups in cancer using multi-omics data. The pipeline also involved identification and characterization of the specific alterations and features associated with each subgroup. This analysis provides valuable insights into the unique molecular attributes of each subgroup, thereby contributing to the determination of safe and effective treatment strategies. 
+          description: 'Developed machine learning-based pipeline aimed at identification of novel molecular subgroups in cancer through the integration of multi-omics data. The pipeline involved using unsupervised machine learning algorithms for the identification of subgroups and supervised machine learning algorithms for the characterization of specific alterations and features associated with each subgroup. This analysis provides valuable insights into the unique molecular attributes of each subgroup, thereby contributing to the determination of safe and effective treatment strategies. 
           Collaborated with instructors to assist in courses related to Data Analysis, Pattern Recognition, Machine Learning, Artificial Neural Networks, and Deep Learning.'
           # description: |2-
           #     Responsibilities include:

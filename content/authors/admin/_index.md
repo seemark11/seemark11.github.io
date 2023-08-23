@@ -22,7 +22,7 @@ organizations:
     url: https://www.iitdh.ac.in/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include application of machine learning techniques to precision medicine.
+bio: My research interests include application of supervised and unupervised machine learning techniques to precision medicine.
 
 # Interests to show in About widget
 interests:
@@ -36,14 +36,14 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Electrical, Electronics, and Communication Engineering
+    - course: Ph.D. in Electrical, Electronics, and Communication Engineering
       institution: Indian Institute of Technology Dharwad
       # institution_url: https://www.iitdh.ac.in/
       year: 2023
-    - course: MTech (Res) in VLSI Design
+    - course: M.Tech. (Research) in Electronics and Communication Engineering
       institution: National Institute of Technology Karnataka Surathkal
       year: 2017
-    - course: B E in Electronics and Communication Engineering
+    - course: B.E. in Electronics and Communication Engineering
       institution: Basaveshwar Engineering College Bagalkot
       year: 2015
 
@@ -69,7 +69,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/seema_resume.pdf
+    link: uploads/Seema_Khadirnaikar_CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -78,5 +78,5 @@ email: ''
 highlight_name: true
 ---
 
-I am a research scholar in the Department of Electrical, Electronics, and Communication Engineering at IIT Dharwad. My research work broadly focuses on applying machine learning algorithms for precise cancer subtype identification and personalized treatment strategies. 
+I am a research scholar in the Department of Electrical, Electronics, and Communication Engineering at IIT Dharwad. My research broadly focuses on applying supervised and unsupervised machine learning algorithms for precise cancer subtype identification which aids in development of personalized treatment strategies. I have also explored data augmentation using GANs to synthetically generate genomic data.
 {style="text-align: justify;"}
